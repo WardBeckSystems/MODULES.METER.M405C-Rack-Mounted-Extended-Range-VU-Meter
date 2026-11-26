@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/METER/M405C/MECHANICAL/1975 - M405C - 405-04-006 - EXT PANGE.jpg",
+ "version": 1,
+ "trace": "_traces/80c73ec57672d3e5.svg",
+ "sheet": {
+  "number": "405-04-006",
+  "title": "Ext Pange",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 647],
+  "mm": [431.8, 139.7],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, -0.2, 427.8, 138.0],
+ "outlines": {
+  "line": {"rings": 739, "straight": {"n": 6082, "mm": 9369.0}, "curved": {"n": 960, "mm": 1196.3}},
+  "text": {"rings": 45, "straight": {"n": 293, "mm": 255.8}, "curved": {"n": 87, "mm": 112.4}}
+ },
+ "circles": [{"c": [360.6, 74.6], "r": 3.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [272.2, 63.6, 392.9, 85.7], "w": 120.7, "h": 22.1, "from": "ring"},
+  {"mm": [331.6, 15.5, 356.7, 27.3], "w": 25.0, "h": 11.7, "from": "ring"},
+  {"mm": [310.9, 24.8, 331.2, 27.0], "w": 20.3, "h": 2.2, "from": "ring"},
+  {"mm": [367.0, 22.2, 370.9, 24.6], "w": 3.9, "h": 2.4, "from": "ring"},
+  {"mm": [299.2, 21.6, 304.6, 24.4], "w": 5.4, "h": 2.8, "from": "ring"},
+  {"mm": [310.9, 21.6, 331.2, 24.4], "w": 20.3, "h": 2.8, "from": "ring"},
+  {"mm": [310.9, 18.5, 331.2, 21.4], "w": 20.3, "h": 2.9, "from": "ring"},
+  {"mm": [357.1, 16.8, 377.6, 19.2], "w": 20.5, "h": 2.4, "from": "ring"},
+  {"mm": [305.1, 15.5, 310.5, 18.4], "w": 5.4, "h": 2.8, "from": "ring"},
+  {"mm": [310.9, 15.5, 331.2, 18.4], "w": 20.3, "h": 2.8, "from": "ring"},
+  {"mm": [310.9, 12.5, 331.2, 15.3], "w": 20.3, "h": 2.8, "from": "ring"},
+  {"mm": [294.9, 12.3, 299.0, 15.1], "w": 4.1, "h": 2.8, "from": "ring"},
+  {"mm": [299.2, 12.3, 304.6, 15.1], "w": 5.4, "h": 2.8, "from": "ring"},
+  {"mm": [331.6, 3.0, 356.7, 15.1], "w": 25.0, "h": 12.1, "from": "ring"},
+  {"mm": [357.3, 11.0, 366.2, 13.4], "w": 8.9, "h": 2.4, "from": "ring"},
+  {"mm": [294.9, 9.5, 299.0, 12.1], "w": 4.1, "h": 2.6, "from": "ring"},
+  {"mm": [299.2, 9.5, 304.6, 12.1], "w": 5.5, "h": 2.6, "from": "ring"},
+  {"mm": [310.9, 9.5, 331.2, 12.1], "w": 20.3, "h": 2.6, "from": "ring"},
+  {"mm": [357.3, 8.2, 377.6, 10.8], "w": 20.3, "h": 2.6, "from": "ring"},
+  {"mm": [310.9, 6.5, 331.2, 9.3], "w": 20.3, "h": 2.9, "from": "ring"},
+  {"mm": [299.3, 6.5, 304.6, 9.1], "w": 5.3, "h": 2.6, "from": "ring"},
+  {"mm": [357.3, 3.0, 377.6, 7.8], "w": 20.3, "h": 4.7, "from": "ring"},
+  {"mm": [378.2, 3.2, 384.5, 7.8], "w": 6.3, "h": 4.5, "from": "ring"},
+  {"mm": [305.1, 2.8, 310.5, 6.0], "w": 5.4, "h": 3.2, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 405-04-006, size B (assumed) 432 × 140 mm, 2000 × 647 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 0–428 mm across, 0–138 mm up",
+  "- **Outlines:** line 739 rings, 6,082 straight (9,369 mm) / 960 curved (1,196 mm); text 45 rings, 293 straight (256 mm) / 87 curved (112 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 3.7 @ (360.6, 74.6)",
+  "- **Closed boxes:** 24"
+ ]
+}
