@@ -20,7 +20,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Closed boxes:** 21
 - **Dots (junctions):** 4
 
-Every curve, box, word and wire group: [1975 - M405C - 142-06-001 - PLACES GIVEN ANGLES (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20142-06-001%20-%20PLACES%20GIVEN%20ANGLES%20(traced).json) (the CAD file: `1975 - M405C - 142-06-001 - PLACES GIVEN ANGLES (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405C - 142-06-001 - PLACES GIVEN ANGLES (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20142-06-001%20-%20PLACES%20GIVEN%20ANGLES%20%28traced%29.json) (the CAD file: `1975 - M405C - 142-06-001 - PLACES GIVEN ANGLES (traced).dxf`).
 
 ## Full text
 

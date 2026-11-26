@@ -18,7 +18,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Outlines:** line 491 rings, 3,600 straight (6,982 mm) / 564 curved (720 mm); text 5 rings, 31 straight (30.8 mm) / 6 curved (6.6 mm)
 - **Closed boxes:** 30
 
-Every curve, box, word and wire group: [1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT (traced).json](../MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20CCAIP%20MENT%20LAYOUT%20(traced).json) (the CAD file: `1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT (traced).json](../MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20CCAIP%20MENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT (traced).dxf`).
 
 ## Full text
 

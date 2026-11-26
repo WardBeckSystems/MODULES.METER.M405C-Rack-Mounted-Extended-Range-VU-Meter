@@ -18,7 +18,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Outlines:** line 1,257 rings, 8,255 straight (12,779 mm) / 1,859 curved (1,790 mm); text 174 rings, 982 straight (918 mm) / 308 curved (344 mm)
 - **Closed boxes:** 36
 
-Every curve, box, word and wire group: [1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%205-108-06-001%20-%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%205-108-06-001%20-%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

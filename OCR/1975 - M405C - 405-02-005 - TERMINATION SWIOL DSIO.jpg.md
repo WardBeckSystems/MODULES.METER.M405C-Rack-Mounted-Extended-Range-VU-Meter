@@ -22,7 +22,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 130 connected wire groups from 744 runs
 
-Every curve, box, word and wire group: [1975 - M405C - 405-02-005 - TERMINATION SWIOL DSIO (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20405-02-005%20-%20TERMINATION%20SWIOL%20DSIO%20(traced).json) (the CAD file: `1975 - M405C - 405-02-005 - TERMINATION SWIOL DSIO (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405C - 405-02-005 - TERMINATION SWIOL DSIO (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20405-02-005%20-%20TERMINATION%20SWIOL%20DSIO%20%28traced%29.json) (the CAD file: `1975 - M405C - 405-02-005 - TERMINATION SWIOL DSIO (traced).dxf`).
 
 ## Full text
 

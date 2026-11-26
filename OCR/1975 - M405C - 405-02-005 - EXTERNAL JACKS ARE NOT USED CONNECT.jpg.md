@@ -22,7 +22,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 123 connected wire groups from 762 runs, 3 dotted junctions
 
-Every curve, box, word and wire group: [1975 - M405C - 405-02-005 - EXTERNAL JACKS ARE NOT USED CONNECT (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20405-02-005%20-%20EXTERNAL%20JACKS%20ARE%20NOT%20USED%20CONNECT%20(traced).json) (the CAD file: `1975 - M405C - 405-02-005 - EXTERNAL JACKS ARE NOT USED CONNECT (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M405C - 405-02-005 - EXTERNAL JACKS ARE NOT USED CONNECT (traced).json](../SCHEMATICS/1975%20-%20M405C%20-%20405-02-005%20-%20EXTERNAL%20JACKS%20ARE%20NOT%20USED%20CONNECT%20%28traced%29.json) (the CAD file: `1975 - M405C - 405-02-005 - EXTERNAL JACKS ARE NOT USED CONNECT (traced).dxf`).
 
 ## Full text
 

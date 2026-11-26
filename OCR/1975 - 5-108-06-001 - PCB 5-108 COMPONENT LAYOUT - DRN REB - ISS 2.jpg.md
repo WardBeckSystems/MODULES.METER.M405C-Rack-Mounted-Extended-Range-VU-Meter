@@ -31,7 +31,7 @@ Wiki page: [M405C](../../../../PAGES/M405C.md)
 - **Closed boxes:** 37
 - **Dots (junctions):** 2
 
-Every curve, box, word and wire group: [1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2 (traced).json](../SCHEMATICS/1975%20-%205-108-06-001%20-%20PCB%205-108%20COMPONENT%20LAYOUT%20-%20DRN%20REB%20-%20ISS%202%20(traced).json) (the CAD file: `1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2 (traced).json](../SCHEMATICS/1975%20-%205-108-06-001%20-%20PCB%205-108%20COMPONENT%20LAYOUT%20-%20DRN%20REB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2 (traced).dxf`).
 
 ## Full text
 
