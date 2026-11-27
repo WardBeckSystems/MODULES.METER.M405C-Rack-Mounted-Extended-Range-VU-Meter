@@ -61,6 +61,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdnh0UUprTmhmbEU/view?resourcekey=0-XIW_yTCxBNmk0_0uo3wxxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdnh0UUprTmhmbEU&resourcekey=0-XIW_yTCxBNmk0_0uo3wxxQ" width="240" alt="1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT.jpg"></a><br><sub>1975|8 · 405-04-006 - CCAIP MENT LAYOUT · <a href="MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20CCAIP%20MENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdDFqVnRZUEtuVFE/view?resourcekey=0-5dcCC0dUqMmECNIk8sCHbA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdDFqVnRZUEtuVFE&resourcekey=0-5dcCC0dUqMmECNIk8sCHbA" width="240" alt="1975 - M405C - 405-04-006 - EXT PANGE.jpg"></a><br><sub>1975|8 · 405-04-006 - EXT PANGE · <a href="MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20EXT%20PANGE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M405C.stl`](MECHANICAL/M405C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405C)
+
+- **Size:** 482.6 × 88.9 mm panel, 247.65 mm deep, 3.2 mm plate (TECHNICAL DATA: 19" W x 3.5" H x 9.75" D.)
+- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M405C - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
