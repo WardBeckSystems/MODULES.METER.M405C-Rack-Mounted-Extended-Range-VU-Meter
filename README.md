@@ -13,6 +13,35 @@ Ward-Beck Systems M405C, 1975|8. Wiki page: [M405C on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1975 - M405C - P2.jpg](MANUALS/1975%20-%20M405C%20-%20P2.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Range** | 50 dBm to +30 dBm in 2 dB steps for 0 VU reading. |
+| **Frequency response** | ±0.25 dB from 20 Hz to 20 kHz (-30 dB down at 60 Hz, filter in.) |
+| **Noise** | 40 dB below 0 VU reading. |
+| **Total harmonic distortion** | Less than 1% 30 Hz to 20 kHz (measured at any specified input Level and at 0 VU output level) Source [mpedance nput Impedance: 600 ohms 150 ohm optional _ 600/20K ohms balanced float ing selectab le via type 239A jack inputs. ±0.25 dB per step (non-accumulative) Comp ]ies with ASA VU Meter standards |
+| **Attenuator Tracking** | Meter Ba]istics: |
+| **Headset output** | 0 dBm (approximately) 600 ohm. 115V ac 60 Hz 2VA |
+| **Dimensions** | 19&quot; W x 3.5&quot; H x 9.75&quot; D. |
+| **Weight** | 6 Tbs. |
+
+## Circuit description
+
+From [1975 - M405C - P4.jpg](MANUALS/1975%20-%20M405C%20-%20P4.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+RI in conjunction with CRI and CR2 protect the amplifier from being damaged by excess vely Large input signa] TeveIs - FET Q1 and Q2 form high input impedence preamp ]ifier for the purpose of amplifying the audios ignal from the precision step attenuator R103, as we 1 as assure ng minimum tracking error as result of any externa] loading The pre-amp] ifier gain is trimmed adjusting R8 Iy (In the case of 150 ohm operation 6dB add tional gain is required and therefore R8 should be readjusted accordingly.) The pre-amp ifier output is coup led via C3 and C4 to the input of the output amplifier compri s of Q3 through Q7 _ This #9 amp] i fier is an operation amp [ ier function ng in the inverting mode with; the gain determined by feed back resistors R10 and R18. Fi ter switch SWIOi inserts Parallel TEE Notch Filter comprising of R1 1 to R17, C5_ C6, C7 and C8 to the input of this output amplifier. R74 and Ri7 are used to adjust the filter notch frequency to 60 Hz with notch depth of at least 30 dB. The output coupling capacitor C12 connects the signa] to the VU meter through the source impedence resistor R28 (2900 ohms) This resistor supplies the correct impedence to VU meter M101 for proper ballistic characteristics_ Zener diodes CRS and CR6 protect the meter from being overdrive by excessive audios igna] Levels -21 is an integrated circuit voltage regulator which takes the unregulated voltage derived from T102 CRZ CR8 and C17 _ The regulated output voltage from Z1 is determined by the vo | tage divider R31 and R32. t is set to nominal value of 22Vdc
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

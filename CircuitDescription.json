@@ -1,0 +1,19 @@
+{
+ "module": "M405C",
+ "source": {
+  "file": "MANUALS/1975 - M405C - P4.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.85,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "RI in conjunction with CRI and CR2 protect the amplifier from being damaged by excess vely Large input signa] TeveIs - FET Q1 and Q2 form high input impedence preamp ]ifier for the purpose of amplifying the audios ignal from the precision step attenuator R103, as we 1 as assure ng minimum tracking error as result of any externa] loading The pre-amp] ifier gain is trimmed adjusting R8 Iy (In the case of 150 ohm operation 6dB add tional gain is required and therefore R8 should be readjusted accordingly.) The pre-amp ifier output is coup led via C3 and C4 to the input of the output amplifier compri s of Q3 through Q7 _ This #9 amp] i fier is an operation amp [ ier function ng in the inverting mode with; the gain determined by feed back resistors R10 and R18. Fi ter switch SWIOi inserts Parallel TEE Notch Filter comprising of R1 1 to R17, C5_ C6, C7 and C8 to the input of this output amplifier. R74 and Ri7 are used to adjust the filter notch frequency to 60 Hz with notch depth of at least 30 dB. The output coupling capacitor C12 connects the signa] to the VU meter through the source impedence resistor R28 (2900 ohms) This resistor supplies the correct impedence to VU meter M101 for proper ballistic characteristics_ Zener diodes CRS and CR6 protect the meter from being overdrive by excessive audios igna] Levels -21 is an integrated circuit voltage regulator which takes the unregulated voltage derived from T102 CRZ CR8 and C17 _ The regulated output voltage from Z1 is determined by the vo | tage divider R31 and R32. t is set to nominal value of 22Vdc"
+   ]
+  }
+ ]
+}

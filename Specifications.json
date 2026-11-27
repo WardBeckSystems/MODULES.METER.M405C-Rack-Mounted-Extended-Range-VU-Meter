@@ -1,0 +1,162 @@
+{
+ "module": "M405C",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1975 - M405C - P2.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Range",
+   "key": "range",
+   "text": "50 dBm to +30 dBm in 2 dB steps for 0 VU reading.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 2,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 20 Hz to 20 kHz (-30 dB down at 60 Hz, filter in.)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -30,
+     "unit": "dB"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "40 dB below 0 VU reading.",
+   "quantities": [
+    {
+     "value": 40,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 1% 30 Hz to 20 kHz (measured at any specified input Level and at 0 VU output level) Source [mpedance nput Impedance: 600 ohms 150 ohm optional _ 600/20K ohms balanced float ing selectab le via type 239A jack inputs. ±0.25 dB per step (non-accumulative) Comp ]ies with ASA VU Meter standards",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "value": 239,
+     "unit": "A"
+    },
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Attenuator Tracking",
+   "key": "attenuator_tracking",
+   "text": "Meter Ba]istics:"
+  },
+  {
+   "name": "Headset output",
+   "key": "headset_output",
+   "text": "0 dBm (approximately) 600 ohm. 115V ac 60 Hz 2VA",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 115,
+     "unit": "V ac"
+    },
+    {
+     "value": 60,
+     "unit": "Hz"
+    },
+    {
+     "value": 2,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "19\" W x 3.5\" H x 9.75\" D.",
+   "quantities": [
+    {
+     "value": 19,
+     "unit": "\""
+    },
+    {
+     "value": 3.5,
+     "unit": "\""
+    },
+    {
+     "value": 9.75,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "6 Tbs."
+  }
+ ]
+}
