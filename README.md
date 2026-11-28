@@ -4,13 +4,11 @@ Ward-Beck Systems M405C, 1975|8. Wiki page: [M405C on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 22 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 11 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 21 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 10 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -61,6 +59,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdnh0UUprTmhmbEU/view?resourcekey=0-XIW_yTCxBNmk0_0uo3wxxQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdnh0UUprTmhmbEU&resourcekey=0-XIW_yTCxBNmk0_0uo3wxxQ" width="240" alt="1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT.jpg"></a><br><sub>1975|8 · 405-04-006 - CCAIP MENT LAYOUT · <a href="MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20CCAIP%20MENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdDFqVnRZUEtuVFE/view?resourcekey=0-5dcCC0dUqMmECNIk8sCHbA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdDFqVnRZUEtuVFE&resourcekey=0-5dcCC0dUqMmECNIk8sCHbA" width="240" alt="1975 - M405C - 405-04-006 - EXT PANGE.jpg"></a><br><sub>1975|8 · 405-04-006 - EXT PANGE · <a href="MECHANICAL/1975%20-%20M405C%20-%20405-04-006%20-%20EXT%20PANGE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M405C.stl`](MECHANICAL/M405C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M405C)
+
+- **Size:** 482.6 × 88.9 mm panel, 247.65 mm deep, 3.2 mm plate (TECHNICAL DATA: 19" W x 3.5" H x 9.75" D.)
+- **From the drawing:** 1 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M405C - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M405C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -70,8 +76,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSG50OFlGaS1ZS3c/view?resourcekey=0-2OKBB5oTXlNsk97crPDdCQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSG50OFlGaS1ZS3c&resourcekey=0-2OKBB5oTXlNsk97crPDdCQ" width="240" alt="1975 - M405C - 405-02-005 - TERMINATION SWIOL DSIO.jpg"></a><br><sub>1975|8 · 405-02-005 - TERMINATION SWIOL DSIO · <a href="SCHEMATICS/1975%20-%20M405C%20-%20405-02-005%20-%20TERMINATION%20SWIOL%20DSIO%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKek83aG52SVlfZE0/view?resourcekey=0-SpbhcKbAJekgBfThcNySTg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKek83aG52SVlfZE0&resourcekey=0-SpbhcKbAJekgBfThcNySTg" width="240" alt="1975 - M405C - 5-108-02-001 - ILSS MOD.jpg"></a><br><sub>1975|8 · 5-108-02-001 - ILSS MOD · <a href="SCHEMATICS/1975%20-%20M405C%20-%205-108-02-001%20-%20ILSS%20MOD%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRjlmMDByUG9Gdkk/view?resourcekey=0-69k8fTfQKJpEBcfjW6Iz1w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRjlmMDByUG9Gdkk&resourcekey=0-69k8fTfQKJpEBcfjW6Iz1w" width="240" alt="1975 - M405C - 5-108-02-001.jpg"></a><br><sub>1975|8 · 5-108-02-001 · <a href="SCHEMATICS/1975%20-%20M405C%20-%205-108-02-001%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVVRNbjRUbGpSb1k/view?resourcekey=0-JyfWBXTwDrncVNDYKkzCyg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVVRNbjRUbGpSb1k&resourcekey=0-JyfWBXTwDrncVNDYKkzCyg" width="240" alt="1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT (2).jpg"></a><br><sub>1975|8 · 5-108-06-001 - COMPONENT LAYOUT (2) · <a href="SCHEMATICS/1975%20-%20M405C%20-%205-108-06-001%20-%20COMPONENT%20LAYOUT%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbFE1Z2UxUXNQd1k/view?resourcekey=0-kVA5KKmyGpQe7Xho34odoA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbFE1Z2UxUXNQd1k&resourcekey=0-kVA5KKmyGpQe7Xho34odoA" width="240" alt="1975 - M405C - 5-108-06-001 - COMPONENT LAYOUT.jpg"></a><br><sub>1975|8 · 5-108-06-001 - COMPONENT LAYOUT · <a href="SCHEMATICS/1975%20-%20M405C%20-%205-108-06-001%20-%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2.jpg`
 
 ## Manuals and documents
 
@@ -87,8 +91,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWUpFcTBVMkMyZmM/view?resourcekey=0-yG-wVKqZ3k4pbPQtHHP21w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWUpFcTBVMkMyZmM&resourcekey=0-yG-wVKqZ3k4pbPQtHHP21w" width="240" alt="1975 - M405C - vintage 8.jpg"></a><br><sub>1975|8 · vintage 8</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWE9ZWW1qeFRGR0U/view?resourcekey=0-0y8z48VsY0D9p2g_8xfgBg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWE9ZWW1qeFRGR0U&resourcekey=0-0y8z48VsY0D9p2g_8xfgBg" width="240" alt="1975 - M405C - vintage 9.jpg"></a><br><sub>1975|8 · vintage 9</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M405C - M 405C Extended Range VU Meter Instruction Manual.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -99,7 +101,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1975 - M405C - 5-108-02-001 - ILSS MOD.kicad_sch](KICAD/1975%20-%20M405C%20-%205-108-02-001%20-%20ILSS%20MOD.kicad_sch)
 - [1975 - M405C - 5-108-02-001.kicad_sch](KICAD/1975%20-%20M405C%20-%205-108-02-001.kicad_sch)
 - [M405C.kicad_sym](KICAD/M405C.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
