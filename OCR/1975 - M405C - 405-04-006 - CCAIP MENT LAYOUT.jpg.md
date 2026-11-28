@@ -1,5 +1,5 @@
 # 1975 - M405C - 405-04-006 - CCAIP MENT LAYOUT.jpg
-Wiki page: [M405C](../../../../PAGES/M405C.md)
+Wiki page: [M405C](../)
 
 
 - **Year:** 1975 (module estimate (family))

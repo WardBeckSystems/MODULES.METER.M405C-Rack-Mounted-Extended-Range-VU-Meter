@@ -1,6 +1,6 @@
 # M405C Rack Mounted Extended Range VU Meter · Meter
 
-Ward-Beck Systems M405C, 1975|8. Wiki page: [M405C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M405C.html)
+Ward-Beck Systems M405C, 1975|8. Wiki page: [M405C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.METER.M405C-Rack-Mounted-Extended-Range-VU-Meter/)
 
 | Folder | What is in it | Files |
 |---|---|---|

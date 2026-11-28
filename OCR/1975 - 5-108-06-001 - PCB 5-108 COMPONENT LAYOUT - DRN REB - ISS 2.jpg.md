@@ -1,5 +1,5 @@
 # 1975 - 5-108-06-001 - PCB 5-108 COMPONENT LAYOUT - DRN REB - ISS 2.jpg
-Wiki page: [M405C](../../../../PAGES/M405C.md)
+Wiki page: [M405C](../)
 
 
 - **Year:** 1975 (title block date)

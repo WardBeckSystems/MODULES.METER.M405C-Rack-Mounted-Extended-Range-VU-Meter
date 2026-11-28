@@ -1,5 +1,5 @@
 # 19xx - M405C - M 405C Extended Range VU Meter Instruction Manual.jpg
-Wiki page: [M405C](../../../../PAGES/M405C.md)
+Wiki page: [M405C](../)
 
 
 - **Year:** unknown (title block (read by eye))
